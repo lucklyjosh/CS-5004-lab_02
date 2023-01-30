@@ -1,0 +1,17 @@
+Original data output:
+Displacement = 1.7320508075688772
+Prof. keith is on the move! His Velocity = 0.34641016151377546
+Encountered an error: Elapsed time must be positive
+
+After swap the elapsedTime values, if they both are 5:
+Displacement = 1.7320508075688772
+Prof. keith is on the move! His Velocity = 0.34641016151377546
+Velocity =0.34641016151377546
+
+After swap the elapsedTime values, if they both are 0:
+Displacement = 1.7320508075688772
+Encountered an error: Elapsed time must be positive
+
+After swap the elapsedTime values, if the first elapsedTime is 0 and second is 5:
+Displacement = 1.7320508075688772
+Encountered an error: Elapsed time must be positive
